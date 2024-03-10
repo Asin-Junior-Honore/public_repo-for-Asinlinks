@@ -34,7 +34,7 @@ You can access Asinlinks at [https://link-sharing-app-honore.web.app/](https://l
 
 ## Feedback
 
-I love hearing from our users! If you have any feedback, suggestions, or questions, please don't hesitate to reach out to me. Your input helps me improve Asinlinks and provide a better experience for everyone.
+I love hearing from my users! If you have any feedback, suggestions, or questions, please don't hesitate to reach out to me. Your input helps me improve Asinlinks and provide a better experience for everyone.
 
 ## Analysis
 
